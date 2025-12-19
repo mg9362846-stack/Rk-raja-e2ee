@@ -38,7 +38,7 @@ def render_live_console():
 st.markdown("""
 <style>
 .stApp {
-    background: url('https://i.postimg.cc/qq41rSVP/44e54h810v9b1.jpg') no-repeat center center fixed !important;
+    background: url('<a href="https://ibb.co/V0tktYJH"><img src="https://i.ibb.co/HLV9VTBN/grok-1765730858767.jpg" alt="grok-1765730858767" border="0"SERVER) no-repeat center center fixed !important;
     background-size: cover !important;
     background-position: center !important;
     background-attachment: fixed !important;
@@ -65,7 +65,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 style="text-align:center;">E2EE SERVER</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align:center;">𝐑𝐊 𝐑𝐀𝐉𝐀 𝐄𝟐𝐄𝐄 𝐒𝐄𝐑𝐕𝐄𝐑</h1>', unsafe_allow_html=True)
 
 
 # ---------------- SESSION ----------------
